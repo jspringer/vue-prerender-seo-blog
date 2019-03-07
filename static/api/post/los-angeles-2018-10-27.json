@@ -1,0 +1,13 @@
+{
+  "results": [{
+    "id": "los-angeles-2018-10-27",
+    "title": "Los Angeles",
+    "content": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "image": "http://www.adventureswithfamily.com/wp-content/uploads/2012/11/Los-Angeles-Hollywood.png",
+    "meta": {
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",
+      "published": "2018-10-27T00:05:26Z",
+      "author": "Barack Obama"
+    }
+  }]
+}
