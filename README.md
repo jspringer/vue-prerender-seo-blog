@@ -1,4 +1,4 @@
-# Animated, Responsive Prerendered Blog
+# Animated, Responsive, Prerendered Blog
 
 Vue.js blog utilizing prerender-spa-plugin to make the blog more SEO friendly. Content updated via JSON feed, which can be supplied via a headless CMS.
 
