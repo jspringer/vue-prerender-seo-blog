@@ -2,6 +2,8 @@
 
 Vue.js blog utilizing prerender-spa-plugin to make the blog more SEO friendly. Content updated via JSON feed, which can be supplied via a headless CMS.
 
+[Demo](https://jsnspr-vue-prerender-blog.netlify.com/)
+
 ## Build Setup
 
 ``` bash
